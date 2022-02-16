@@ -2,6 +2,20 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lab Videos
+parent_type: CourseSection
+related_resources_text: '[Prelab (PDF)](resources/mit6_007s11_lab4_pre)
+
+
+  [Sample spectra images (ZIP - 3.0MB)](resources/lab4_images) (This ZIP file contains:
+  3 .jpg files.)
+
+
+  [Lab handout (PDF)](resources/mit6_007s11_lab4)'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 4: Spectrometer'
 uid: 9affe837-4c99-f9a7-d873-ec857997e8c7

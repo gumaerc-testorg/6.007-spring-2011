@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lab Videos
 uid: 2421c81f-1aa3-b66f-da43-e569b0690de9
 videos:
