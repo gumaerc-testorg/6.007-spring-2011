@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 409fa6f9-bceb-2eda-ca06-c85dc0ae92d8
 resourcetype: Document
 title: Electromagnetics and Applications, Chapter 6
 uid: 55c2a25e-1012-ed8a-76ba-82a024bb441f

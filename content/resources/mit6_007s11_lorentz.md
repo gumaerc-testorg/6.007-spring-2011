@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 409fa6f9-bceb-2eda-ca06-c85dc0ae92d8
 resourcetype: Document
 title: '6.007 Supplemental Notes: The Lorentz Oscillator and its Applications'
 uid: af10a4aa-72a6-1e65-5726-e72a47e8b71e

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Videos
 parent_type: CourseSection
+parent_uid: 2421c81f-1aa3-b66f-da43-e569b0690de9
 resourcetype: Document
 title: '6.007 Pre-Lab 2: Coil Gun'
 uid: aaf48982-70f7-4e60-fbd4-1eef47eec50f

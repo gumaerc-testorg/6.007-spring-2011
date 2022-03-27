@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -16,6 +17,7 @@ related_resources_text: '[Prelab (PDF - 1.1MB)](resources/mit6_007s11_lab1_pre)
   [Lab handout (PDF - 2.3MB)](resources/mit6_007s11_lab1)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 1: DC Motors'
 uid: 763b8e85-f426-eb74-1874-08698f60efcd
 video_files:

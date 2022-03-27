@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Videos
 parent_type: CourseSection
+parent_uid: 2421c81f-1aa3-b66f-da43-e569b0690de9
 resourcetype: Other
 title: marsvoltage.csv
 uid: 6f6ba99d-c7ae-571b-2455-b80e5fbd0d22

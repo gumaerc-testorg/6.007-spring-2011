@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -16,6 +17,7 @@ related_resources_text: '[Prelab (PDF)](resources/mit6_007s11_lab2_pre)
   [Lab handout (PDF - 1.1MB)](resources/mit6_007s11_lab2)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 2: Shooting Magnets'
 uid: 012208ce-123a-40fd-4b60-0f02a81790f3
 video_files:

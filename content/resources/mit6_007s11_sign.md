@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 409fa6f9-bceb-2eda-ca06-c85dc0ae92d8
 resourcetype: Document
 title: '6.007 Supplemental Notes: Sign Conventions in Electromagnetic (EM) Waves'
 uid: eedd1469-23b8-8c91-6495-42f1e11e2237

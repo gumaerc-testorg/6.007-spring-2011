@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: '[Lab handout (PDF - 1.0MB)](resources/mit6_007s11_lab3)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 3: Liquid Crystal Displays'
 uid: e3e82506-4620-2725-2b52-6aab24bd0cab
 video_files:

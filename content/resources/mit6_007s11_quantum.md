@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 409fa6f9-bceb-2eda-ca06-c85dc0ae92d8
 resourcetype: Document
 title: '6.007 Tutorial Notes: Quantum Mechanics in 1-D Potentials'
 uid: 98177fab-699b-6a14-bbe9-98005e4b536b

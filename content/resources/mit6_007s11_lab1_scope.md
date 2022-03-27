@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Videos
 parent_type: CourseSection
+parent_uid: 2421c81f-1aa3-b66f-da43-e569b0690de9
 resourcetype: Document
 title: 6.007 Oscilloscope Tutorial
 uid: 5bd95196-72fb-b69a-d60e-4dbba4979a3a

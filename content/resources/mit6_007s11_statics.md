@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 409fa6f9-bceb-2eda-ca06-c85dc0ae92d8
 resourcetype: Document
 title: 'Electromagnetic Fields and Energy, Sections 3.3-3.6 '
 uid: f9fd1822-b34e-ad9f-dea4-f41bba5ca737

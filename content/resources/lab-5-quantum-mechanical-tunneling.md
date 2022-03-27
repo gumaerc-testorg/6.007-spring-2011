@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: '[Lab handout (PDF - 3.0MB)](resources/mit6_007s11_lab5)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 5: Quantum Mechanical Tunneling'
 uid: 0614cff5-7b25-e04e-d821-bbe6c7264793
 video_files:

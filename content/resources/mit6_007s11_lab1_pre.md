@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Videos
 parent_type: CourseSection
+parent_uid: 2421c81f-1aa3-b66f-da43-e569b0690de9
 resourcetype: Document
 title: '6.007 Pre-Lab 1: DC Motors'
 uid: 4db480b2-b2ea-448d-a2fb-8a1d924bb7f2

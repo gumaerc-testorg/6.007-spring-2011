@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -17,6 +18,7 @@ related_resources_text: '[Prelab (PDF)](resources/mit6_007s11_lab4_pre)
   [Lab handout (PDF)](resources/mit6_007s11_lab4)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 4: Spectrometer'
 uid: 9affe837-4c99-f9a7-d873-ec857997e8c7
 video_files:

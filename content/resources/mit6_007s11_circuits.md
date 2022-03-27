@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 409fa6f9-bceb-2eda-ca06-c85dc0ae92d8
 resourcetype: Document
 title: '6.007 Supplemental Notes: Magnetic Circuit Analog to Electric Circuits'
 uid: 3ca50847-f907-d44a-1485-04a778d1a5f5

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Videos
 parent_type: CourseSection
+parent_uid: 2421c81f-1aa3-b66f-da43-e569b0690de9
 resourcetype: Other
 title: lab4_images.zip
 uid: 973fa3cd-11b7-eef3-5815-a2b48fe1c232

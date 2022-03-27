@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 409fa6f9-bceb-2eda-ca06-c85dc0ae92d8
 resourcetype: Document
 title: '6.007 Supplemental Notes: Energy Method for Finding Forces'
 uid: bb0b652d-60dc-a5e0-aa6d-a65e8428b81c
