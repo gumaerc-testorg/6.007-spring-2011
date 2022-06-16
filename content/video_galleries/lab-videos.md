@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This section contains video walkthroughs for each lab of the course.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -20,4 +21,4 @@ The following videos were created by Dr. Yu Gu, with contributions from Kyle Hou
 {{< video-gallery "2421c81f-1aa3-b66f-da43-e569b0690de9" >}}
 
 
-[Lab 6 Handout: Extra Credit Lab (PDF)]({{< baseurl >}}/resources/mit6_007s11_lab6)
+{{% resource_link f219e114-d03a-5849-8f5f-442bf046dd2d "Lab 6 Handout: Extra Credit Lab (PDF)" %}}

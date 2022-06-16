@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding electromagnetics and applications,
   chapter 6.
-file: /media/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/55c2a25e1012ed8a76ba82a024bb441f_MIT6_007S11_actuators.pdf
+file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/55c2a25e1012ed8a76ba82a024bb441f_MIT6_007S11_actuators.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Electromagnetics and Applications, Chapter 6
 uid: 55c2a25e-1012-ed8a-76ba-82a024bb441f
 ---
+This resource contains information regarding electromagnetics and applications, chapter 6.
+

@@ -4,11 +4,12 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lab Videos
 parent_type: CourseSection
-related_resources_text: '[Lab handout (PDF - 1.0MB)](resources/mit6_007s11_lab3)'
+related_resources_text: '[Lab handout (PDF - 1.0MB)](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/resources/mit6_007s11_lab3)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** In this lab, we will construct and characterize a single liquid crystal pixel. The construction includes grooving the substrates to align the liquid crystals, assembling the display cell, and filling the cell with spacers and the liquid crystal material.
 
 **Speaker:** Yu Gu
+
+
+

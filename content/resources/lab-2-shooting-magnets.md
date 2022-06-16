@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lab Videos
 parent_type: CourseSection
-related_resources_text: '[Prelab (PDF)](resources/mit6_007s11_lab2_pre)
+related_resources_text: '[Prelab (PDF)](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/resources/mit6_007s11_lab2_pre)
 
 
-  [marsvoltage (CSV)](resources/marsvoltage)
+  [marsvoltage (CSV)](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/resources/marsvoltage)
 
 
-  [Lab handout (PDF - 1.1MB)](resources/mit6_007s11_lab2)'
+  [Lab handout (PDF - 1.1MB)](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/resources/mit6_007s11_lab2)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -32,3 +33,6 @@ video_metadata:
 **Description:** In this lab, we will characterize a coilgun launcher. A coilgun is a device that accelerates a ferromagnetic projectile using the magnetic force.
 
 **Speaker:** Yu Gu
+
+
+

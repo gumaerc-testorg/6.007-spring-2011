@@ -4,18 +4,19 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lab Videos
 parent_type: CourseSection
-related_resources_text: '[Prelab (PDF)](resources/mit6_007s11_lab4_pre)
+related_resources_text: '[Prelab (PDF)](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/resources/mit6_007s11_lab4_pre)
 
 
-  [Sample spectra images (ZIP - 3.0MB)](resources/lab4_images) (This ZIP file contains:
-  3 .jpg files.)
+  [Sample spectra images (ZIP - 3.0MB)](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/resources/lab4_images)
+  (This ZIP file contains: 3 .jpg files.)
 
 
-  [Lab handout (PDF)](resources/mit6_007s11_lab4)'
+  [Lab handout (PDF)](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/resources/mit6_007s11_lab4)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -33,3 +34,6 @@ video_metadata:
 **Description:** In this lab you will be exploring many aspects of optics. In class you learned about light polarization, Snell's law, critical angle, gratings, Fresnel equations and Brewster's angle. We will now be experimentally verifying all of these concepts.
 
 **Speaker:** Yu Gu
+
+
+

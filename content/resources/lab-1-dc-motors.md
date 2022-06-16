@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lab Videos
 parent_type: CourseSection
-related_resources_text: '[Prelab (PDF - 1.1MB)](resources/mit6_007s11_lab1_pre)
+related_resources_text: '[Prelab (PDF - 1.1MB)](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/resources/mit6_007s11_lab1_pre)
 
 
-  [Oscilloscope tutorial (PDF - 1.4MB)](resources/mit6_007s11_lab1_scope)
+  [Oscilloscope tutorial (PDF - 1.4MB)](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/resources/mit6_007s11_lab1_scope)
 
 
-  [Lab handout (PDF - 2.3MB)](resources/mit6_007s11_lab1)'
+  [Lab handout (PDF - 2.3MB)](/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/resources/mit6_007s11_lab1)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -32,3 +33,6 @@ video_metadata:
 **Description:** This is an introductory lab designed to introduce you to the oscilloscope and MATLAB. You will measure the angular velocity of your home-built motor and characterize a DC motor by measuring its motor constant.
 
 **Speaker:** Yu Gu
+
+
+
