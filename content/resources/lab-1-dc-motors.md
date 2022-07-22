@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -33,6 +34,4 @@ video_metadata:
 **Description:** This is an introductory lab designed to introduce you to the oscilloscope and MATLAB. You will measure the angular velocity of your home-built motor and characterize a DC motor by measuring its motor constant.
 
 **Speaker:** Yu Gu
-
-
 

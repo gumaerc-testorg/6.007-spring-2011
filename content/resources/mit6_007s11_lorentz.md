@@ -6,6 +6,7 @@ file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/af
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.007 Supplemental Notes: The Lorentz Oscillator and its Applications'
 uid: af10a4aa-72a6-1e65-5726-e72a47e8b71e
 ---
 This resource contains information regarding supplemental notes: the lorentz oscillator and its applications.
-

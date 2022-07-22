@@ -6,6 +6,7 @@ file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/f9
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Electromagnetic Fields and Energy, Sections 3.3-3.6 '
 uid: f9fd1822-b34e-ad9f-dea4-f41bba5ca737
 ---
 This resource contains information regarding electromagnetic fields and energy, sections 3.3-3.6.
-

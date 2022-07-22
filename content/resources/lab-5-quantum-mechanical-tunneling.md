@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** In this lab, we will analyze a piece of material composed of nickel in rubber that exhibits a nonlinear current versus voltage (I-V) relationship due to the dominance of tunneling in the conduction process, and build a simple resistive touchpad.
 
 **Speaker:** Yu Gu
-
-
 

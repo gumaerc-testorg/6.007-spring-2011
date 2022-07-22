@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** In this lab, we will construct and characterize a single liquid crystal pixel. The construction includes grooving the substrates to align the liquid crystals, assembling the display cell, and filling the cell with spacers and the liquid crystal material.
 
 **Speaker:** Yu Gu
-
-
 

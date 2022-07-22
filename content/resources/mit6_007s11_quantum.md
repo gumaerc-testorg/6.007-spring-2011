@@ -6,6 +6,7 @@ file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/98
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.007 Tutorial Notes: Quantum Mechanics in 1-D Potentials'
 uid: 98177fab-699b-6a14-bbe9-98005e4b536b
 ---
 This resource contains information regarding tutorial notes: quantum mechanics in 1-D potentials.
-

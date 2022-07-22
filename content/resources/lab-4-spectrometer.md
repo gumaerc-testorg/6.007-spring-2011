@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -34,6 +35,4 @@ video_metadata:
 **Description:** In this lab you will be exploring many aspects of optics. In class you learned about light polarization, Snell's law, critical angle, gratings, Fresnel equations and Brewster's angle. We will now be experimentally verifying all of these concepts.
 
 **Speaker:** Yu Gu
-
-
 
