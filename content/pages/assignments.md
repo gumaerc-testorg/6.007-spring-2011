@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a7a5904c-a08c-8f98-2cf6-380e74610826
 ---
@@ -22,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Energy conversion (PDF)]({{< baseurl >}}/resources/mit6_007s11_ps1)
+{{% resource_link c7ae8ece-bf10-860c-d0b1-88189b166870 "Energy conversion (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Energy and static fields (PDF)]({{< baseurl >}}/resources/mit6_007s11_ps2)
+{{% resource_link 5bafaa4d-5aa5-195a-c792-ed5103b3b219 "Energy and static fields (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Magnetic materials and magnetic circuits (PDF - 2.2MB)]({{< baseurl >}}/resources/mit6_007s11_ps3)
+{{% resource_link c8361c1c-36af-ece4-bc68-96077f25d7db "Magnetic materials and magnetic circuits (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Forces and magnetic fields (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_007s11_ps4)
+{{% resource_link fe8d92cd-3f15-a544-d508-fe9d7b753064 "Forces and magnetic fields (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Energy method and waves (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_007s11_ps5)
+{{% resource_link c1ec9fde-9474-1c4f-cc53-69d2b1329653 "Energy method and waves (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[EM waves and liquid crystal displays (PDF - 1.3MB)]({{< baseurl >}}/resources/mit6_007s11_ps6)
+{{% resource_link d70e6568-bc7a-b733-7f24-94178cfe6586 "EM waves and liquid crystal displays (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Spectrometer and interference (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_007s11_ps7)
+{{% resource_link 6fee4346-7345-a7f6-aa2b-2db9707c13cb "Spectrometer and interference (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +89,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Electromagnetic waves at boundaries (PDF - 1.3MB)]({{< baseurl >}}/resources/mit6_007s11_ps8)
+{{% resource_link cdc14a71-f2ce-5a70-ad69-30ffbfc5e0f5 "Electromagnetic waves at boundaries (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +98,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to quantum mechanics (PDF)]({{< baseurl >}}/resources/mit6_007s11_ps9)
+{{% resource_link 9c04562b-9f60-4d73-444a-bc78f666ab51 "Introduction to quantum mechanics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +107,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Energy bands and more quantum mechanics (PDF)]({{< baseurl >}}/resources/mit6_007s11_ps10)
+{{% resource_link 5ee75a26-38ed-ff1d-524b-fd962165eb69 "Energy bands and more quantum mechanics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
