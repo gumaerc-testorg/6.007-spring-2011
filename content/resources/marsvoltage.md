@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding marsvoltage.
 file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/6f6ba99dc7ae571b2455b80e5fbd0d22_marsvoltage.csv
+file_size: 50983
 file_type: text/comma-separated-values
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
