@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding pre-lab 2: coil gun.'
 file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/aaf4898270f74e60fbd41eef47eec50f_MIT6_007S11_lab2_pre.pdf
+file_size: 686147
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

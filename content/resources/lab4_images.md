@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains lab 4 images.
 file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/973fa3cd11b7eef35815a2b48fe1c232_lab4_images.zip
+file_size: 3109688
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
