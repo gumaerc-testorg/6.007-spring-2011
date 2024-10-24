@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding tutorial notes: quantum
   mechanics in 1-D potentials.'
-file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/98177fab699b6a14bbe998005e4b536b_MIT6_007S11_quantum.pdf
+file: /ol-ocw-studio-app/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/98177fab699b6a14bbe998005e4b536b_MIT6_007S11_quantum.pdf
 file_size: 652202
 file_type: application/pdf
 learning_resource_types:

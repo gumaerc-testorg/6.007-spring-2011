@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding electromagnetics and applications,
   chapter 6.
-file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/55c2a25e1012ed8a76ba82a024bb441f_MIT6_007S11_actuators.pdf
+file: /ol-ocw-studio-app/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/55c2a25e1012ed8a76ba82a024bb441f_MIT6_007S11_actuators.pdf
 file_size: 888081
 file_type: application/pdf
 learning_resource_types:
