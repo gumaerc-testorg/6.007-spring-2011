@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding pre-lab 1: DC motors.'
-file: /ol-ocw-studio-app/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/4db480b2b2ea448da2fb8a1d924bb7f2_MIT6_007S11_lab1_pre.pdf
+file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/4db480b2b2ea448da2fb8a1d924bb7f2_MIT6_007S11_lab1_pre.pdf
 file_size: 1137978
 file_type: application/pdf
 learning_resource_types: []
