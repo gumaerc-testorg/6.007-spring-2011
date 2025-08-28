@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding spectrometer.
-file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/71583b9601f33674ebee62706e6d4b6e_MIT6_007S11_lab4_pre.pdf
+file: /ol-ocw-studio-app/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/71583b9601f33674ebee62706e6d4b6e_MIT6_007S11_lab4_pre.pdf
 file_size: 1032324
 file_type: application/pdf
 learning_resource_types: []
