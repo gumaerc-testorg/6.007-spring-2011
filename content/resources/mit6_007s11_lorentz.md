@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding supplemental notes: the
   lorentz oscillator and its applications.'
-file: /courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/af10a4aa72a61e655726e72a47e8b71e_MIT6_007S11_lorentz.pdf
+file: /ol-ocw-studio-app/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/af10a4aa72a61e655726e72a47e8b71e_MIT6_007S11_lorentz.pdf
 file_size: 1735342
 file_type: application/pdf
 learning_resource_types:
